@@ -1,1 +1,0 @@
-This dashboard was built to simulate a real-world retail sales reporting environment. It tracks revenue, units sold, target attainment, and rep performance across 3,300+ transactions spanning two years (2023–2024).
